@@ -33,13 +33,13 @@ env/
 cifar-10-batches-py/
 data/
 
-# ── Generated plots (reproducible, not source) ───────────────────
+# ── Generated plots (keep plots_cuda for README images) ──────────
 plots/
-plots_cuda/
 plots_cuda_100/
 plots_cuda_best/
 plots_cuda_lambda_sweep_100/
 eval_results/
+# plots_cuda/ ← intentionally tracked (README images)
 
 # ── OS / editor junk ─────────────────────────────────────────────
 .DS_Store
