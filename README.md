@@ -1,4 +1,4 @@
-# Credance — Self-Pruning Neural Networks on CIFAR-10
+# Tredence — Self-Pruning Neural Networks on CIFAR-10
 
 A PyTorch implementation of **learnable gate-based weight pruning** for image classification on CIFAR-10.  
 The network automatically learns *which weights to prune* during training via differentiable gate parameters, with no manual pruning required.
